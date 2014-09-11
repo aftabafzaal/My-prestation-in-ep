@@ -1,0 +1,214 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+    background-image: url(images/table-bg.jpg);
+	background-repeat: repeat-x;
+	background-color: #F5F5F5;
+	
+}
+	
+.form {
+	background-image: url(images/equinox1_11.jpg);
+	background-repeat: no-repeat;
+}
+.content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #A90753;
+	font-weight: bold;
+
+}
+
+.page-2repeat {
+	background-image: url(images/page2-repeat.png);
+	background-repeat: repeat;
+}
+.content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333;
+}
+.footer-text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333;
+}
+
+.page-3 {
+	background-image: url(images/pg3tablerepeat.png);
+	background-repeat: repeat;
+}
+
+
+.formtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #ededed;
+}
+.red-text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0084;
+}
+.blacksmalltext {font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	border-left-width: 15px;
+	border-left-color: #FFFFFF;
+}
+.blacktext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CCCCCC;
+}
+.greensmalltext4 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #748554;
+}
+.whitetext {font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.blacksmalltext {font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	border-left-width: 15px;
+	border-left-color: #FFFFFF;
+}
+.graysmalltext {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	font-weight: bold;
+}
+.greensmalltext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #EC1142;
+	font-weight: bold;
+}
+.footer2 {
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: none;
+}
+a.footer2:link {
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: none;
+}
+a.footer2:active {
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: none;
+}
+a.footer2:visited {
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: none;
+}
+a.footer2:hover {
+	color: #999999;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: underline;
+}
+.blacktext {font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.greensmalltext4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.smalltext-black {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.textgray {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #CCCCCC;
+}
+.timer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #FF0084;
+}
+
+.timer2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FF0084;
+}
+.footer2 {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: none;
+}
+a.footer2:link {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: none;
+}
+a.footer2:active {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: none;
+}
+a.footer2:visited {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: none;
+}
+a.footer2:hover {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: none;
+	font-style: normal;
+}
+.formtext2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #5C5E5F;
+}
+
+.error {
+    color: #fff;
+}

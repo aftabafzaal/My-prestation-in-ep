@@ -1,0 +1,1 @@
+<img src="http://roi.adsonar.com/process/roi/roiCheck.jsp?a=TL03r%2FbY93OcI9jhHsA%3D&v=1.16&atm=false&qtm=false&type=nonJs&amount=<?php echo $order_amount; ?>&eventId=<?php echo $invoice_id; ?>&eventType=Sale&sourceId=your-source-id" height="1" width="1" border="0" alt="" />

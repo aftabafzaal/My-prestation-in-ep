@@ -1,0 +1,87 @@
+/* Validation Styles */
+#myform div.formWrapbox input.error, #myform div.formWrapbox select.error {background: #900; border: 1px solid #c00; color: #fff; -moz-border-radius:5px; height:24px; line-height:24px; padding:0 8px 0 0; margin-bottom:4px;}
+#myform div.formWrapbox em.error {background: url(error.png) 5px 40% no-repeat #ffc6c6; color: #801B1B; z-index: 3; width:160px; height:18px; left:275px; font-size:11px;}
+#myform div.formWrapbox em.success {background: url(success.png) 0 40% no-repeat; color: #666; z-index: 2; text-indent:-9999px; width:30px; height:18px; left:275px;}
+#myform div.formWrapbox b {display:none;}
+#myform div.formWrapbox p {display:block; clear:both; padding-bottom:2px;}
+#myform div.formWrapbox p input.error {background: #900; border: 0px solid #c00; color: #fff}
+#myform div.formWrapbox p span.error {background: #900; border: 0px solid #c00; color: #fff} 
+#myform div.formWrapbox select.error {background: #900; color: #fff }
+#myform div.formWrapbox em, #form i {position: absolute; left: 305px; font: normal 12px Arial, Helvetica, sans-serif; padding: 5px 10px 5px 25px; white-space: nowrap;}
+#myform div.formWrapbox i {background: #f2f2f2 url(info.gif) 5px 50% no-repeat; border: 1px solid #ddd; z-index: 1; color: #666; padding: 5px 10px 5px 20px; display:none;}
+#myform div.formWrapbox p small {display:block; clear:both; font-size:10px; padding-left:130px;}
+
+#ccform p input.error {background: #900; border: 0px solid #c00; color: #fff}
+#ccform b {display:none;}
+#ccform p {display:block; clear:both; padding-bottom:2px;}
+#ccform p input.error {background: #900; border: 0px solid #c00; color: #fff}
+#ccform p span.error {background: #900; border: 0px solid #c00; color: #fff} 
+#ccform p select.error {background: #900; color: #fff }
+#ccform p checkbox.error {background: #900; color: #fff }
+#ccform em, #form i {position: absolute; left: 305px; font: normal 12px Arial, Helvetica, sans-serif; padding: 5px 10px 5px 25px; white-space: nowrap;}
+#ccform i {background: #f2f2f2 url(info.gif) 5px 50% no-repeat; border: 1px solid #ddd; z-index: 1; color: #666; padding: 5px 10px 5px 20px; display:none;}
+#ccform p small {display:block; clear:both; font-size:10px; padding-left:130px;}
+
+#ccform div#formWrap2 input.error, #ccform div#formWrap2 select.error, #ccform div#formWrap input.error, #ccform div#formWrap select.error {background: #900; border: 1px solid #c00; color: #fff; -moz-border-radius:5px; border-radius: 5px; height:24px; padding:0 8px 0 0; margin-bottom:4px;}
+#ccform div#formWrap .formWrapboxcvv input.error, #ccform div#formWrap .formWrapboxcvv select.error {background: #900; border: 1px solid #c00; color: #fff; -moz-border-radius:5px; height:24px; line-height:24px; padding:0 8px 0 0; margin-bottom:4px;}
+#ccform div#formWrap2 em.error, #ccform div#formWrap em.error {background: url(error.png) 5px 40% no-repeat #ffc6c6; color: #801B1B; z-index: 3; width:160px; height:18px; left:180px; font-size:11px;}
+#ccform div#formWrap2 em.success, #ccform div#formWrap em.success {background: url(success.png) 0 40% no-repeat; color: #666; z-index: 2; text-indent:-9999px; width:30px; height:18px; left:180px;}
+#ccform div.formWrapbox {position:relative; float:left;}
+#ccform div.formWrapbox b {display:none;}
+#ccform div.formWrapbox p {display:block; clear:both; padding-bottom:2px;}
+#ccform div.formWrapbox input.error {background: #900; border: 0px solid #c00; color: #fff}
+#ccform div.formWrapbox p span.error {background: #900; border: 0px solid #c00; color: #fff} 
+#ccform div.formWrapbox select.error {background: #900; color: #fff }
+#ccform div.formWrapbox p checkbox.error {background: #900; color: #fff }
+#ccform div.formWrapbox em, #form i {position: absolute; left: 305px; font: normal 12px Arial, Helvetica, sans-serif; white-space: nowrap;}
+#ccform div.formWrapbox i {background: #f2f2f2 url(info.gif) 5px 50% no-repeat; border: 1px solid #ddd; z-index: 1; color: #666; padding: 5px 10px 5px 20px; display:none;}
+#ccform div.formWrapbox p small {display:block; clear:both; font-size:10px; padding-left:130px;}
+
+#formWrap .formWraptext {position:relative;}
+a.whatsThis {position:absolute; left:200px; width:80px;}
+#main {overflow:visible;}
+#ccform div#formWrap .formWraptextCheck input.error {border:1px solid #c00;}
+#ccform div#formWrap .formWraptextCheck em.error {height:31px; left:314px;}
+#ccform div#formWrap .formWraptextCheck em.success {background-image:none;}
+
+/* adjustments - chris */
+
+#ccform div#formWrap2 input.error, #ccform div#formWrap2 select.error, #ccform div#formWrap input.error, #ccform div#formWrap select.error, div#formWrap select { padding: 4px 8px; height: auto; line-height: 12px }
+#ccform div#formWrap .formWrapboxcvv input.error, #ccform div#formWrap .formWrapboxcvv select.error, #myform div.formWrapbox input.error, #myform div.formWrapbox select.error  { line-height: 12px; padding: 4px 8px; height: auto }
+#formWrap input, #formWrap input.sm, #formWrap2 input, #form .formWrap input, #form .formWrap input.sm, #form .formWrap input.sml { background: #fff url(inputbg.png) repeat-x; border: 1px solid #46bdd7; -moz-border-radius: 5px; border-radius: 5px; padding: 4px 8px; font: normal 12px/12px Arial, serif }
+#formWrap input.sm { width: 50px }
+a.whatsThis { left: 0; top: 12px}
+#formWrap .formWraptextSelect { clear: both }
+#formWrap .formWraptextSelect { line-height: 24px; padding-top: 0 }
+#formWrap select { margin: 0; font: normal 12px/12px Arial, serif }
+#formWrap2 .formWraptext, #formWrap2 .formWraptextSelect { clear: left }
+
+#form .formWrap .formWrapbox  { width: auto;}
+#form .formWrap .formWraptext { clear: left }
+#myform div.formWrapbox em.error { height: auto }
+#form .formWrap .formWrapbox { height: 30px }
+
+#form .formWrap select { font-size: 12px; height:26px; padding:4px 8px;}
+#form .formWrap input.sml { width: 36px }
+
+/* end adjustments - chris */
+
+/* added 12/14/2010 - juven */
+.header02 .form .fields input.error, .header02 .form .fields select.error {background: #900; color: #fff;}
+.header02 .form .fields em.error {background: url(error.png) 5px 40% no-repeat #ffc6c6; color: #801B1B; z-index: 3; width:140px; left:275px; font-size:11px; position:absolute; left:290px; line-height:24px; padding-left:30px;}
+.header02 .form .fields em.success {background: url(success.png) 0 40% no-repeat; color: #666; z-index: 2; text-indent:-9999px; width:30px; height:18px; left:285px;}
+
+/*added*/
+#formWrap select.big { width:175px; margin-top:4px;}
+#formWrap select.month, #formWrap select.year { margin:4px 0 4px 0;}
+#formWrap .formWraptextSelect{ padding-top:4px;}
+
+/*#formWrap .formWrapboxcvv { border: 1px solid #999; }
+
+#formWrap p { float: left; display: inline; clear: left; position: relative }
+#formWrap p label, #formWrap p input, #formWrap p select { float: left; display: inline; }
+#formWrap p label { line-height: 36px; width: 130px; padding-right: 10px; text-align: right }
+#ccform #formWrap p em.error { left: 315px; top: 4px }
+#ccform #formWrap p input, #ccform #formWrap p input.error { height: auto; width: 170px; font: normal 12px/12px Arial, serif; padding: 6px }
+#ccform #formWrap p input#CVV { width: 70px }
+a.whatsThis { left: 230px }*/

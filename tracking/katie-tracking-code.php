@@ -1,0 +1,2 @@
+<!-- Katie Bishop - Tracking Code -->
+<iframe width='1' height='1' frameborder='0' src='https://affiliate.adgtracker.com/rd/ipx.php?hid=<?php print $subid; ?>&sid=278&transid=<?php print $custid; ?>'></iframe>

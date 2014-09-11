@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* reset */
+* { margin: 0; padding: 0; outline: none; }
+a img, fieldset, table {  border: 0; }
+body { line-height: 1; font-size: 88%; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; padding: 0; }
+ul, ol { list-style: none; }
+a { color: black; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.clear { clear:both; width:0; height:0; font-size:0; overflow:hidden; }
+/* end of reset */ 
+
+/* CSS Document */
+#modalBackground, #modalWrapper { background: #000; height: 100%; left: 0; position: fixed !important; position: absolute; /* ie6 fix */ top: 0; width: 100%; z-index: 9999999; }
+#modalWrapper { background: none; }
+#modal { margin: 0 auto; position: relative; z-index: 9999  }
+
+.genericmodal { width: 600px; margin: 0 auto; background: #fff; padding: 0px 0 20px 0px; position: relative; color: #000  }
+.genericmodal .innerModal { overflow: auto;  height: 500px; padding: 80px 20px 20px 20px; }
+.genericmodal h1 { width: 600px; height: 60px; background: #fff url(popupTop.jpg) no-repeat; overflow: hidden }
+.genericmodal h1 span { font: bold 28px Arial, sans-serif; display: block; margin: 16px 0 0 140px; color: #fff; text-transform:uppercase;}
+.genericmodal h3, .genericmodal h4, .genericmodal p { padding-bottom: 10px; font-family: Arial, sans-serif }
+.genericmodal h3{ font: bold 14px/16px "Lucida Grande",Tahoma,sans-serif; color: #00264b }
+.genericmodal p, .genericmodal li { font: normal 12px/16px "Lucida Grande",Tahoma,sans-serif; color: #222 }
+.genericmodal p strong { font: bold 14px/16px "Lucida Grande",Tahoma,sans-serif; color: #00264b }
+.genericmodal li { list-style: inside disc none; padding-bottom: 5px }
+.genericmodal h2 { font: bold 18px/24px Arial, sans-serif; text-align: left; color: #00264b; border-bottom: 1px dotted #ccc; padding:0 0 30px 200px; margin:-40px 0 0 0; text-transform:uppercase;}
+.genericmodal h3{color: #00264b;}
+.genericmodal a { color: #000 }
+.genericmodal a.closeButton { display: block; position: absolute; right: -10px; top: -10px; }
+.logo{position:absolute; top:-8px; left:14px;}
+
+
+.genericmodal2 { width: 500px; margin: 0 auto; background: #fff; padding: 0px 0 20px 0px; position: relative; color: #000  }
+.genericmodal2 .innerModal { overflow: auto;  height: 400px; padding: 40px 20px 20px 20px; }
+.genericmodal2 h1 { width: 500px; height: 60px; background: #fff url(popupTop.jpg) no-repeat; overflow: hidden }
+.genericmodal2 h1 span { font: bold 28px Arial, sans-serif; display: block; margin: 16px 0 0 140px; color: #fff; text-transform:uppercase;}
+.genericmodal2 h3, .genericmodal h4, .genericmodal p { padding-bottom: 10px; font-family: Arial, sans-serif }
+.genericmodal2 h3{ font: bold 14px/16px "Lucida Grande",Tahoma,sans-serif; color: #00264b }
+.genericmodal2 p, .genericmodal li { font: normal 12px/16px "Lucida Grande",Tahoma,sans-serif; color: #222 }
+.genericmodal2 p strong { font: bold 14px/16px "Lucida Grande",Tahoma,sans-serif; color: #00264b }
+.genericmodal2 li { list-style: inside disc none; padding-bottom: 5px }
+.genericmodal2 h2 { font: bold 18px/24px Arial, sans-serif; text-align: left; color: #00264b; border-bottom: 1px dotted #ccc; padding:0 0 30px 200px; margin:-40px 0 0 0; text-transform:uppercase;}
+.genericmodal2 h3{color: #00264b;}
+.genericmodal2 a { color: #000 }
+.genericmodal2 a.closeButton { display: block; position: absolute; right: -10px; top: -10px; }
+.logo{position:absolute; top:-8px; left:14px;}
+
+/*customer_service*/
+.custmodal {width: 811px; margin: 0 auto; padding: 0px 0 20px 0px; position: relative;}
+.custmodal a.closeButton {position:absolute; top:10px; right:-10px; display:block; width:38px; height:38px; cursor:pointer; z-index:99;}
+.cs_container {	height: 438px;	width: 811px;}
+.cs_header {height: 111px;	width: 811px;}
+.cs_logo{}
+.cs_main {background:url(main.png) no-repeat; background-repeat: no-repeat; width: 811px; height: 438px;	margin:auto; z-index:98;}
+.cs_main .cont{ float:right; width:390px; padding:50px 0;}
+.cs_main p{	font-family: Arial, Helvetica, sans-serif; padding:10px 20px 10px 0; font-size:12px; line-height: 16px; color:#333333;}
+.cs_main p.bold{font-family: Arial, Helvetica, sans-serif; padding:10px 20px 10px 0; font-size:12px; font-weight:bold; color:#333333;}
+.cs_main p.bold a{ color:#00aeef;}
+.cs_footer {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	text-align: center;	width: 811px;	color: #00aeef;	margin:auto;}
+.cs_footer a{	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	text-align: center;	color: #00aeef;}
+.cs_footer ul { text-align: center; display: block;}
+.cs_footer li {padding:0px 3px;line-height:20px; display: inline; }
+.cs_footer p { color:#333333;}
+
+
+.genericmodal3 { width: 570px; margin: 0 auto; background: #e5e5e5; padding: 0px 0 35px 0px; position: relative; color: #000; -moz-border-radius:5px; -webkit-border-radius:5px; }
+.genericmodal3 .innerModal { overflow: auto;  height: 128px; padding: 80px 20px 20px 20px; background:#FFFFFF; border-top:1px solid #dddddd; border-bottom:1px solid #dddddd;}
+.genericmodal3 h1 { width: 570px; height: 40px; overflow: hidden; }
+.genericmodal3 h1 span { font: bold 28px Arial, sans-serif; display: block; margin: 16px 0 0 140px; color: #fff; text-transform:uppercase;}
+.genericmodal3 h3, .genericmodal h4, .genericmodal p { padding-bottom: 10px; font-family: Arial, sans-serif }
+.genericmodal3 h3{ font: bold 14px/16px "Lucida Grande",Tahoma,sans-serif; color: #00264b }
+.genericmodal3 p, .genericmodal li { font: normal 18px/24px "Lucida Grande",Tahoma,sans-serif; color: #222; padding-top:40px;}
+.genericmodal3 p strong { font: bold 14px/16px "Lucida Grande",Tahoma,sans-serif; color: #00264b }
+.genericmodal3 li { list-style: inside disc none; padding-bottom: 5px }
+.genericmodal3 h2 { font: bold 18px/24px Arial, sans-serif; text-align: left; color: #00264b; border-bottom: 1px dotted #ccc; padding:0 0 30px 200px; margin:-40px 0 0 0; text-transform:uppercase;}
+.genericmodal3 h3{color: #00264b;}
+.genericmodal3 a { color: #000 }
+.genericmodal3 a.closeButton { display: block; position: absolute; right: 4px; top: 4px; }
+.logo5{position:absolute; top:55px; left:14px;}
+.loader{position:absolute; top:75px; right:24px;}

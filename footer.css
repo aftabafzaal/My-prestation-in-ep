@@ -1,0 +1,625 @@
+@charset utf-8;
+#bottom_black_footer{background-color:#c8c7c7;background-image:url(images/footer_color.jpg);background-repeat:repeat-x;height:100%;padding:0}
+#footer_links_main{margin:0 auto;padding:0;width:1005px}
+.footer_top_headings{float:left;height:28px;padding:10px 0 0 20px;width:220px}
+.footer_top_headings2{float:left;height:28px;padding:10px 0 0 15px;width:170px}
+.footer_top_headings3{float:left;height:28px;padding:7px 0 0 125px;text-align:center;width:110px}
+.footer_top_heading{color:#FFF;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:12pt;font-weight:500px}
+.footer_logos{float:left;padding:0 1px;width:225px}
+#footer_links{float:left;padding:6px 15px 0;width:220px}
+#footer_links ul li{color:#000;font-family:Arial, Helvetica, sans-serif;font-size:11px;list-style:none;padding:4px 0}
+#footer_links ul li a{background-image:url(images/footer_bullet.png);background-position:left;background-repeat:no-repeat;color:#000;left:0;margin:0 1px;padding:0 0 0 20px;position:relative;text-decoration:none}
+#footer_links_sep{float:left;width:1px}
+#bottom_grey_footer{background-image:url(images/footer_grey_bar.jpg);background-repeat:repeat-x;height:57px}
+#footer_text{float:right;padding:8px 10px 0 0}
+#trainer_expert_text{float:left;padding:8px;width:205px}
+#inner_left_links{background-color:#F0F0F0;border:1px solid #E6E6E6;float:left;width:192px}
+#inner_left_links ul li{background-color:#F0F0F0;border-bottom:1px solid #E2E2E2;color:#000;font-family:Arial, Helvetica, sans-serif;font-size:12px;list-style:none;margin:0;padding:10px 0 10px 12px;width:180px}
+#inner_left_links ul li a{background-image:url(../images/left_link_hover.jpg);background-position:left;background-repeat:no-repeat;color:#000;left:0;margin:0 1px;padding:0 0 0 25px;position:relative;text-decoration:none}
+#inner_left_links ul li a:hover{background-image:url(images/left_link_icon_hover.jpg);background-position:left;background-repeat:no-repeat;color:#ee2a28;font-family:Arial, Helvetica, sans-serif}
+#nutrition_top_box_text{border:1px solid #ccc;float:right;width:474px}
+#nutrition_top_box_img1{float:left;padding:4px}
+#nutrition_top_box_detail{float:left;padding:8px;width:460px}
+#myfitness_profile{background-color:f8f8f8;border:1px solid #E2E2E2;float:left;margin:2px;padding:5px}
+#myfitness_profile-pic{border:1px solid #F0F0F0;float:left;height:108px;width:178px}
+#myfitness_profile-text{float:left;padding:5px;width:265px}
+#myfitness_facbook-text{float:left;padding:3px;width:297px}
+#myfitness_facbook-pic{float:left;width:302px}
+#workout_video_main{background-color:#eee;margin:0 auto;width:998px}
+#workout_video_box{border-bottom:1px solid #CCC;float:left;margin:15px 0 0 3px;width:999px}
+#workout_left_button_bg{background-color:#eee;float:left;width:146px}
+#workout_inner_videos{background:#CCC;float:left;padding:5px;width:798px}
+#workout_left_arrow{background-color:#ccc;float:left}
+#workout_main_div{background:#eee;float:left;width:813px}
+#workout_top_chkbox{border-bottom:1px solid #ccc;float:left;margin:10px 12px 5px;width:787px}
+#workoutbottomlinks{float:left;margin:10px 12px 5px 15px;width:787px}
+#workout_btn_icons{float:left;padding:0 12px 10px;width:787px}
+#workout_main_boxes{float:left;padding:0 0 10px 6px;width:803px}
+#workout_main_heading{float:left;margin:0 12px 5px;width:780px}
+#workout_inner-video{background-color:#f7f7f7;border:1px solid #dcdcdc;float:left;margin:6px;width:253px}
+#workout_inner-video:hover{background-color:#ccc;border:1px solid #dcdcdc;float:left;margin:6px;width:253px}
+#workout_video-pic{float:left;height:100px;width:253px}
+#workout_video-text{float:left;padding:6px;width:240px}
+#workouticons{float:left;height:34px}
+#workouticons_link{float:left;padding:6px 10px 8px 8px}
+#workout_vid_bottom-links{float:right;margin:0 10px 15px 0}
+.classhoverImage{background-image:url(../images/cross-delete-over.png);background-repeat:no-repeat;cursor:pointer;display:none;height:30px;margin-left:150px;position:absolute;width:30px;z-index:10000}
+div.classhoverImage:hover{background-image:url(../images/cross-delete.png);cursor:pointer}
+#workout_vid_bottom-links ul{float:left;list-style:none;margin:0 1px 0 0;padding:0}
+#workout_vid_bottom-links ul li{color:#000;display:inline;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:14px;list-style:none;margin:0;padding:0}
+#workout_vid_bottom-links ul li a{background-image:url(../images/video_button_main.jpg);border:1px solid #aeaeae;color:#000;display:inline;float:left;height:32px;margin:0 2px;padding:10px 10px 0;position:relative;text-decoration:none}
+#workout_vid_bottom-links ul li a:hover{background-image:url(../images/workoutvideo_btn_hover.jpg);color:#333;font-family:Verdana, Arial, Helvetica, sans-serif}
+#workout_vid_strip-bg{background-image:url(../images/video_strip-image.jpg);background-repeat:repeat-x;border:1px solid #EEE;float:left;height:210px;margin:0 5px;width:995px}
+#workout_vid_strip-left{float:left;height:210px;width:155px}
+#workout_vid_strip-heading{float:left;padding:25px 0 0 25px}
+#workout_vid_strip-left-arrow{float:left;height:39px;padding:80px 0 0 10px;width:35px}
+#workout_strip-inner-videos{float:left;height:210px;width:785px}
+#workout-strip_box-video{background-color:#f7f7f7;border:1px solid #dcdcdc;float:left;margin:22px 10px 6px;width:182px}
+#workout-strip_video-text{float:left;padding:108px 2px 0;width:182px}
+#workout-strip_video-sep{float:left;padding:80px 10px 3px 15px}
+#workout-strip_video-sep2{float:left;padding:35px 10px 3px}
+#workout_vid_build-box1{border:1px solid #ccc;float:left;margin:3px;width:326px}
+#workout_vid_build-box1_top{background-image:url(../images/recent_activity_top_bg.jpg);background-repeat:repeat-x;float:left;height:25px;padding:6px 0 0;width:326px}
+#workout_vid_build-box1_inner{float:left;padding:10px 8px;width:310px}
+#workout_vid_build-box1_text{float:left;margin-top:10px;width:310px}
+.vidSelected{background-image:url(../images/workoutvideo_btn_hover.jpg);background-repeat:repeat-x;border:1px solid #b3b3b3;color:#616161;cursor:pointer;font-family:Arial, Helvetica, sans-serif;font-size:12pt;height:21px;margin:0 auto;padding:10px;width:198px}
+#workout_save_video-main{border:1px solid #e9e9e9;margin:0 auto;width:987px}
+#workout_save_video-top{margin:0 auto;width:997px}
+#workout_save_video-top-heading,#article_top_heading{float:left;padding:10px 10px 15px 8px}
+#workout_save_video-top-tabs{background-color:#f8f8f8;border-bottom:1px solid #e9e9e9;height:21px;margin:0 auto;width:987px}
+#workout_save_video-h1{float:left;padding:2px 0 2px 10px;width:505px}
+#workout_save_video-h2{float:left;padding:2px 0 2px 10px;width:195px}
+#workout_save_video-h3{float:left;padding:2px 0 2px 10px;width:120px}
+#workout_save_video-box1:hover{background-color:#ccc;border:1px solid #eee;width:968px}
+#workout_save_video-pic1{float:left;padding:2px 0;width:505px}
+#workout_save_video-img{float:left;height:133px;width:193px}
+#workout_save_video-dte{float:left;margin:48px 0 0 10px;width:195px}
+#workout_save_video-dlte{float:left;margin:40px 0 0 25px;width:100px}
+#workout_save_video-dlte2{background-image:url(../images/video_delete-icon.png);background-repeat:no-repeat;float:left;height:50px;margin:40px 0 0 25px;width:40px}
+#workout_save_video-dlte2:hover{background-image:url(../images/video_delete-icon-hover.png);cursor:pointer}
+#workout_save_video-box-txt{float:left;margin:30px 0 0 10px;width:280px}
+#workout_video_flip-arrow{float:right;margin:25px 4px 0 0}
+#workout-play-arrow{background-image:url(../images/play_arrow.png);background-repeat:no-repeat;height:16px;width:18px}
+#article_top_heading{float:left;padding:10px 10px 5px 3px}
+.article_srch_field{background-color:#f8f8f8;border:1px solid #ddd;font-family:Arial, Helvetica, sans-serif;font-size:10pt;padding:5px 0 5px 5px}
+#article_srch_list-box{border:1px solid #d4d4d4;float:left;height:158px;margin:8px;width:150px}
+#article_srch_list-box-top{background-color:#f0f0f0;border-bottom:1px solid #d4d4d4;float:left;padding:5px;width:140px}
+#article_srch_list{float:left;width:150px}
+.article_list_boxes{background-color:#FFF;border:0;height:127px;width:150px}
+#article_main_pic{border:1px solid #eee;float:left;height:277px;margin:5px;width:206px}
+#article_main_pic-text{float:left;padding:5px 5px 30px;width:447px}
+#article_main-text-h1{float:left;padding:0 5px 5px}
+#article_main_pic-text2,#article_rating{float:left;padding:5px;width:610px}
+#article_middle_text{float:left;padding:5px;width:655px}
+.black_small_bold-a{color:#333;font-family:Arial, Helvetica, sans-serif;font-size:10pt;line-height:20px;text-decoration:none}
+a:hover.black_small_bold-a{color:#ff4d4d;font-family:Arial, Helvetica, sans-serif;font-size:10pt;line-height:20px;text-decoration:underline}
+.black_small_bold-a2{color:#333;font-family:Arial, Helvetica, sans-serif;font-size:8pt;line-height:20px;text-decoration:none}
+a:hover.black_small_bold-a2{color:#ff4d4d;font-family:Arial, Helvetica, sans-serif;font-size:8pt;line-height:20px;text-decoration:underline}
+#latest_articles2{background-color:#FFF;border-bottom:1px solid #eee;border-left:1px solid #fff;border-right:1px solid #fff;border-top:1px solid #fff;float:right;margin-top:7px;width:677px}
+#latest_articles2:hover{background-color:#f9f9f9;border:1px solid #ccc;float:right;margin-top:7px;width:677px}
+#article_main_pic2{border:1px solid #eee;float:left;margin:5px;width:207px}
+#article_rating2{float:left;padding:0 5px}
+a:hover.blackheading_a3{color:#000;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11pt;text-decoration:underline}
+#article_main_dtl_h{float:left;padding:10px 10px 0 8px}
+#mypage_events-category{border-bottom:1px solid #d4d4d4;float:left;margin:5px 10px 0;padding:0 0 15px;width:532px}
+#mypage_events-category2{float:left;margin:5px 10px 0;padding:0 0 15px;width:532px}
+#mypage_events_detail{float:left;padding:10px 0;width:532px}
+#mypage_events_btns-main{float:left;padding:0 0 10px;width:532px}
+#mypage_events_btns{margin:0 auto;width:510px}
+#mypage_events_line2{border-bottom:1px solid #d4d4d4;float:left;margin:0 10px;width:532px}
+#mypage_events-h2{float:left;margin:5px 10px 0;width:532px}
+#mypage_event_icon{float:left;padding:10px 5px 0 10px}
+#mypage_events-heading{float:left;padding:10px 0 0}
+#mypage_events-dtail-btn2{float:left;padding:3px 4px 0}
+#mypage_events-btn-box{background-color:#f8f8f8;border:1px solid #e9e9e9;float:left;margin:30px 10px 10px;padding:5px 0;width:529px}
+#mypage_text_btn-box{background-color:#f8f8f8;border-right:1px solid #CCC;float:left;padding:3px 10px}
+#mypage_text_list-box{border-bottom:1px solid #d4d4d4;margin:0 auto;padding:0 0 10px;width:533px}
+#mypage_events_date{background-image:url(../images/dat-bg.jpg);float:left;height:63px;width:52px}
+#mypage_events_date-txt{padding:18px 5px 0}
+#mypage_main_events-heading{float:left;padding:5px 0 7px 10px;width:470px}
+#mypage_main_events-heading2{float:left;padding:0 0 0 10px;width:305px}
+#mypage_event_display-img{border:1px solid #f8f8f8;float:right;height:113px;width:160px}
+#mypage_events_box-dtl{float:left;padding:5px 0;width:365px}
+#mypage_upcomming_user_calendar{float:left;padding:0 0 0 15px}
+.blue_text2{color:#333;font-family:Arial, Helvetica, sans-serif;font-size:12px;text-decoration:none}
+a:hover.blue_text2{color:#06F;font-family:Arial, Helvetica, sans-serif;font-size:11px;text-decoration:underline}
+.lightgrey-heading3{color:#616161;font-family:Arial, Helvetica, sans-serif;font-size:11pt;text-decoration:none}
+.events_text_field{background-color:#f8f8f8;border:1px solid #ddd;font-family:Arial, Helvetica, sans-serif;font-size:12px;padding:5px}
+#mypage_events_side-srch{float:left;padding:0 0 5px;width:180px}
+#my_page_profile_pic{float:left;height:90px;padding:0 0 15px;width:90px}
+.my_profile-name{float:left;margin-top:5px;padding-left:5px;width:120px}
+#my_page_links{border-bottom:1px solid #d5d5d5;margin:0 auto;padding:5px 0 8px;width:220px}
+#my_page_links ul{float:left;list-style:none;margin:0 1px 0 0;padding:0;width:220px}
+#my_page_links ul li{border:1px solid #fff;color:#000;font-family:Arial, Helvetica, sans-serif;font-size:10pt;list-style:none;margin:0;padding:7px 0 7px 39px}
+#my_page_links ul li:hover{background-color:#eee;border:1px solid #f8f8f8}
+#my_page_links ul li a{color:#000;left:0;margin:0 1px;position:relative;text-decoration:none}
+#mypage_big_heading{float:left;padding:10px 0 5px 5px;width:200px}
+#mypage_water_bottle{float:left;width:112px}
+#addglass_btn{float:left;margin:120px 0 0 5px;width:100px}
+#exercise_log_text{float:left;margin:0 0 10px 5px;width:100px}
+#my_page_invites{border-bottom:1px solid #d5d5d5;margin:0 auto;padding:0;width:190px}
+#my_invite_icon{float:left;height:75px;margin-bottom:5px;width:75px}
+#my_invite_heading{float:left;margin:30px 0 0 5px}
+#my_invite_text{float:left;margin-bottom:10px;width:180px}
+#mypage_big_heading2{float:left;padding:10px 0 5px;width:180px}
+#mypage_trainer_pic{float:left;margin-bottom:5px}
+#mypage_btns{float:left;margin:5px 5px 10px}
+#recent_activity-icon{float:left;padding:10px 5px 10px 10px}
+#mypage_activity-heading{float:left;padding:8px 0 10px}
+#post_text_main{float:left;height:21px;margin:5px 0 0 10px;width:525px}
+#post_comment_main{float:left;height:21px;margin:10px 0 0;width:525px}
+.post_text_field{background-color:#f8f8f8;border:1px solid #e9e9e9;font-family:Arial, Helvetica, sans-serif;font-size:10pt;height:21px;padding:5px 0 5px 5px;width:525px}
+.user_comment_field{background-color:#f8f8f8;border:1px solid #e9e9e9;font-family:Arial, Helvetica, sans-serif;font-size:11pt;height:21px;padding:10px 0;width:525px}
+#mypage_posting-category{float:left;margin:30px 10px 10px;width:532px}
+#mypage_publish_box{float:left;margin:10px 0;width:532px}
+#likes_icon{float:right;padding:5px}
+.blue_text{color:#06F;font-family:Arial, Helvetica, sans-serif;font-size:12px;text-decoration:underline}
+.grey_underline_text{color:#666;font-family:Arial, Helvetica, sans-serif;font-size:12px;text-decoration:underline}
+.black_small_bold2{color:#333;font-family:Arial, Helvetica, sans-serif;font-size:9pt;line-height:20px;text-decoration:none}
+.black_small_bold3{color:#333;font-family:Arial, Helvetica, sans-serif;font-size:8.5pt;font-weight:700;line-height:20px;text-decoration:none}
+.black_small_bold4{color:#333;font-family:Arial, Helvetica, sans-serif;font-size:8.5pt;font-weight:700;text-decoration:none}
+.redheading_bold{color:#ee2a28;font-family:Arial, Helvetica, sans-serif;font-size:11pt}
+.blackheading_4{color:#000;font-family:Arial, Helvetica, sans-serif;font-size:10pt;font-weight:700}
+.blackheading_5{color:#000;font-family:Arial, Helvetica, sans-serif;font-size:12pt;padding-left:5px}
+.blackheading_6{color:#000;font-family:Arial, Helvetica, sans-serif;font-size:12pt}
+.blackheading_7{color:#000;font-family:Arial, Helvetica, sans-serif;font-size:16pt}
+.lightgrey-heading{color:#616161;font-family:Arial, Helvetica, sans-serif;font-size:12pt}
+.lightgrey-heading-vid{background-image:url(../images/workoutvideo_btn.jpg);background-repeat:repeat-x;border:1px solid #b3b3b3;color:#616161;font-family:Arial, Helvetica, sans-serif;font-size:12pt;height:21px;margin:0 auto;padding:10px;width:198px}
+.lightgrey-heading-vid:hover{background-image:url(../images/workoutvideo_btn_hover.jpg);background-repeat:repeat-x;border:1px solid #b3b3b3;cursor:pointer;height:21px;margin:0 auto;padding:10px;width:198px}
+.lightgrey-heading2{color:#616161;font-family:Arial, Helvetica, sans-serif;font-size:11pt}
+.red_bold_text{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:12pt;line-height:24px}
+.big_black_heading2{color:#000;font-family:"Trebuchet MS", sans-serif;font-size:14pt;text-decoration:none}
+a:hover.big_black_heading2{color:#ea0b0c;font-family:"Trebuchet MS", sans-serif;font-size:14pt;text-decoration:underline}
+.main_formtext{color:#333;font-family:Arial, Helvetica, sans-serif;font-size:10pt}
+.main_text_light_grey{color:#555;font-family:Arial, Helvetica, sans-serif;font-size:11px;line-height:18px;text-align:justify}
+.main_text_5{color:#333;font-family:Arial, Helvetica, sans-serif;font-size:11px;text-align:justify}
+.red_small_bold{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:9pt;font-weight:700}
+.recipie-information-bg{background-image:url(../images/enter-recipe-information-bg.jpg);background-repeat:no-repeat;color:#333;font-family:Arial, Helvetica, sans-serif;font-size:11px;line-height:18px}
+#recipies_main_data{margin:15px 8px;width:987px}
+#recipies_search_top_box{height:83px;margin:15px 193px 5px;width:601px}
+#recipies_search_btns{margin:15px 193px;width:601px}
+#recipie_search_bar_center{background-image:url(../images/serch_center2.jpg);background-repeat:repeat-x;float:left;height:28px;width:200px}
+#recipie_all_search{float:left;height:20px;padding:1px 0 0 10px;width:110px}
+.recipie_search_opt{float:left;padding:3px 0 0 65px;width:400px}
+.recipie_log_btns{float:right;height:28px;padding:0 0 0 10px;width:125px}
+#recipies_description_page_data{float:left;width:671px}
+#recipies_description_page2{border-bottom:1px solid #CCC;float:left;width:985px}
+#recipies_description_page4{border-bottom:1px solid #CCC;float:left;width:671px}
+.recipies_top_bar{border-right:1px solid #ccc;float:left;padding:10px}
+.recipies_top_bar2{float:right;padding:10px}
+.red_small_bold7{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:9pt;font-weight:700;line-height:20px}
+.red_small_bold_link{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:11px;text-decoration:none}
+.red_small_bold_link:hover{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:11px;text-decoration:underline}
+.red_small_article_link{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:11px;font-weight:700;text-decoration:none}
+.red_small_article_link:hover{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:11px;font-weight:700;text-decoration:underline}
+.recipie_graph-image{float:left;padding:8px 0 8px 8px;width:200px}
+.recipie_discriptions{float:left;margin:0 0 8px;width:245px}
+.recipie_des_heading{float:left;padding:5px 5px 5px 0;width:450px}
+.recipie_des_heading2{float:left;padding:0 5px 5px;width:235px}
+.recipesname{color:#447D14;font-family:Arial,Helvetica,sans-serif;font-size:17px;font-weight:700}
+#recipie_all_search_left{float:left;margin:8px 0 8px 8px;width:455px}
+#basic_search_main3{margin:0 auto;padding:10px 0;width:987px}
+#recipies_description_page3{border:1px solid #CCC;float:left;width:985px}
+.basic_search-txt-image2{border:1px solid #e1e1e1;float:left;height:125px;margin:0 7px 0 0;width:190px}
+.basic_search-txt-image3{border:1px solid #e1e1e1;float:left;height:200px;margin:0 7px 0 0;width:200px}
+a.top:hover{background-image:url(../images/pg-up.jpg);background-position:center center;background-repeat:no-repeat;color:#FFF;display:block;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:700;line-height:26px;list-style-type:square;text-decoration:none}
+#basic_search_main2{border-bottom:1px solid #dfdfdf;margin:0 auto;width:987px}
+#basic_search_main2 ul li{color:#000;display:inline;font-family:Arial, Helvetica, sans-serif;font-size:9pt;list-style:none;padding:0;text-align:center}
+#basic_search_main2 ul li a{background-color:#fff;border-bottom:1px solid #fff;border-left:1px solid #e1e1e1;border-right:1px solid #e1e1e1;border-top:1px solid #e1e1e1;color:#000;display:inline;float:left;left:0;margin:0 10px 0 0;padding:8px;position:relative;text-align:center;text-decoration:none}
+#tools_top{border-bottom:1px solid #ccc;margin:15px 12px 0;width:980px}
+#tools_bottom{margin:15px 12px 0;width:980px}
+.tools_big-icon{float:left;padding:10px 5px 5px 0}
+.tools_big-heading{float:left;padding:62px 8px 5px 0}
+.tools_instructions_btn{background-image:url(../images/tool_btn_white_bg.jpg);background-repeat:repeat-x;border-left:1px solid #e5e5e5;border-right:1px solid #e5e5e5;border-top:1px solid #e5e5e5;float:right;margin:56px 0 0;padding:6px}
+#tools_main_area{float:left;width:796px}
+#tools_right_area{float:right;width:183px}
+.right_tool-heading{padding:5px 5px 10px;text-align:center}
+.right_tool-heading2{padding:10px 5px;text-align:center}
+.tool_top_text{float:left;padding:5px 15px 0 5px}
+#body_measurment-graph{margin:0 auto;text-align:center;width:183px}
+#right_tool_scroller{margin:0 auto;width:147px}
+.right_tool-upper{cursor:pointer;height:9px;margin:0 auto;padding-top:5px;width:25px}
+.right_tool_white_btn{background-image:url(../images/Tool-Body-Measurements_23.png);color:#797979;font-family:Arial, Helvetica, sans-serif;font-size:10pt;font-weight:700;height:22px;margin:0 auto;padding-top:7px;text-align:center;text-decoration:none;width:147px}
+.right_tool_arrows2{height:22px;margin:0 auto;padding-top:7px;text-align:center;text-decoration:none;width:147px}
+.right_tool_white_btn:hover{background-image:url(../images/Tool-Body-Measurements_30.png);background-repeat:no-repeat}
+.right_tool_white_btn a{color:#797979;text-decoration:none}
+.right_tool_white_btn:hover a{color:#fff}
+.right_tool_meal_tracker{background-image:url(../images/meal_tracker_gray.jpg);background-repeat:no-repeat;cursor:pointer;height:110px;margin:5px 0 0;width:147px}
+.right_tool_meal_tracker:hover{background-image:url(../images/meal_tracker_color.jpg)}
+.right_tool_meal_tracker_active{background-image:url(../images/meal_tracker_color.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.right_tool_weight_tracker{background-image:url(../images/weight_tracker_gray.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.right_tool_weight_tracker_active{background-image:url(../images/weight_tracker_color.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.right_tool_weight_tracker:hover{background-image:url(../images/weight_tracker_color.jpg)}
+.right_tool_food_and_mood{background-image:url(../images/food-and-mood-gray.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.right_tool_food_and_mood_active{background-image:url(../images/food-and-mood-color.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.right_tool_food_and_mood:hover{background-image:url(../images/food-and-mood-color.jpg)}
+.right_tool_water-tracker{background-image:url(../images/water_tracker_gray.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.right_tool_water-tracker_active{background-image:url(../images/water_tracker_color.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.right_tool_water-tracker:hover{background-image:url(../images/water_tracker_color.jpg)}
+.right_tool_sleep-log{background-image:url(../images/sleep_logger_gray.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.right_tool_sleep-log:hover{background-image:url(../images/sleep_logger_color.jpg)}
+.right_tool_sleep-log_active{background-image:url(../images/sleep_logger_color.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.right_tool_body-measurment{background-image:url(../images/body_measurement_gray.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.right_tool_body-measurment:hover{background-image:url(../images/body_measurement_color.jpg)}
+.right_tool_body-measurment_active{background-image:url(../images/body_measurement_color.jpg);background-repeat:no-repeat;height:118px;margin:5px 0 0;width:147px}
+.black_small_bold5{color:#333;font-family:Arial, Helvetica, sans-serif;font-size:9pt;font-weight:700;line-height:20px;text-decoration:none}
+a:hover.black_small_bold5{color:#900}
+#mypage_left_navigation{border-right:1px solid #f6f5f5;float:left;margin-top:10px;width:246px}
+#mypage_center_navigation,mypage_event_center_area{float:left;margin-top:10px;width:552px}
+#mypage_right_navigation{border-left:1px solid #f6f5f5;float:left;margin-top:10px;width:205px}
+.my_page_profile_area{border-bottom:1px solid #d5d5d5;margin:0 auto;padding:0;width:220px}
+#my_profile-name{float:left;margin-top:5px;padding-left:5px}
+#mypage_icon-one{background:url(../images/my-page-icon-my-recipes.png) no-repeat 6px 50%}
+#mypage_icon-two{background:url(images/my-page-icon-grops.png) no-repeat 6px 50%}
+#mypage_icon-three{background:url(images/my-page-icon-tools.png) no-repeat 6px 50%}
+#mypage_icon-four{background:url(images/my-page-icon-article.png) no-repeat 6px 50%}
+#mypage_icon-five{background:url(images/my-page-icon-fr-workouts.png) no-repeat 6px 50%}
+#mypage_icon-six{background:url(images/my-page-icon-my-trainer.png) no-repeat 6px 50%}
+#mypage_icon-seven{background:url(images/my-page-icon-search-friends.png) no-repeat 6px 50%}
+#trainer_icon-one{background:url(../images/my-page-icon-manage-profile.png) no-repeat 6px 50%}
+#trainer_icon-two{background:url(../images/my-page-icon-my-profile.png) no-repeat 6px 50%}
+#trainer_icon-three{background:url(../images/my-page-icon-client-manager.png) no-repeat 6px 50%}
+#trainer_icon-four{background:url(../images/my-page-icon-create-exercise.png) no-repeat 6px 50%}
+#trainer_icon-five{background:url(../images/my-page-icon-invite-clients.png) no-repeat 6px 50%}
+#trainer_icon-six{background:url(../images/my-page-icon-forum.png) no-repeat 6px 50%}
+.form-heading-big{color:#515050;font-family:Arial, Helvetica, sans-serif;font-size:14pt}
+.form-heading-2{color:#FFF;font-family:Arial, Helvetica, sans-serif;font-size:14pt}
+.text-field{color:#515050;font-family:Arial, Helvetica, sans-serif;font-size:11pt}
+.main-text-form{color:#515050;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:12px;line-height:18px}
+a.link1:link{color:#515050;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-weight:400;heading-decoration:none;text-decoration:underline}
+a.link1:active{color:#515050;font-family:Arial, Helvetica, sans-serif;font-size:11px;font-style:normal;font-weight:400;heading-decoration:none;text-decoration:none}
+a.link1:hover{color:#F41B1F;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-weight:400;heading-decoration:none;text-decoration:none}
+a.link2:active{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:11px;font-style:normal;font-weight:400;heading-decoration:none;text-decoration:none}
+#basic_search_top{border-bottom:1px solid #e9e9e9;margin:0 auto;width:987px}
+#basic_search_main{margin:0 auto;width:987px}
+#basic_search_top_box{height:83px;margin:15px 193px 30px;width:601px}
+.search_big_img{float:left;height:83px;width:90px}
+.search_big_box_center{border-bottom:1px solid #d5d5d5;border-top:1px solid #d5d5d5;float:left;height:81px;width:500px}
+.search_big_box_inner{height:60px;margin:11px 17px;width:467px}
+.search_heading{float:left;height:23px;padding:10px 10px 5px 5px}
+.search_heading2{float:left;height:28px;padding:5px}
+#basic_search_bar_center{background-image:url(../images/serch_center2.jpg);background-repeat:repeat-x;float:left;height:28px;width:320px}
+#basic_serach_icon{float:left;height:25px;padding:1px 0 0 15px;width:41px}
+.basic_search_advance{float:left;padding:3px 0 0 72px;width:250px}
+#basic_search_data{border:1px solid #dfdfdf;margin:15px 8px;width:987px}
+.basic_search-txt-image{float:left;height:auto;margin:8px;min-height:100px;width:190px}
+.basic_search-txt-heading,.basic_search-txt{float:left;margin:8px 8px 0;width:765px}
+.basic_search-txt_footer div{float:left;margin:8px 8px 0 21.5%;width:765px}
+.red_heading4{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:10pt;text-decoration:none}
+a:hover.red_heading4{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:10pt;text-decoration:underline}
+.red_heading5{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:9pt;text-decoration:none}
+a:hover.red_heading5{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:9pt;text-decoration:underline}
+.tabcontainer{background-color:#f8f8f8;border:1px solid #e9e9e9;float:left;margin:30px 0 10px 2px;width:545px}
+.tab_container{clear:both;float:left}
+.tab_content{font-size:1.2em;padding:20px}
+.tab_content h2{border-bottom:1px dashed #ddd;font-size:1.8em;font-weight:400;padding-bottom:10px}
+.tab_content h3 a{color:#254588}
+.tab_content img{border:1px solid #ddd;float:left;margin:0 20px 20px 0;padding:5px}
+.mypage_text_list-box{border-bottom:1px solid #d4d4d4;margin:0 9px 10px;width:533px}
+.recipesmain{color:#FFF;font-family:Arial,Helvetica,sans-serif;font-size:17px;font-weight:700}
+.featured{height:246px;position:relative;width:681px}
+.featured .item{display:none;height:250px;position:absolute;width:681px}
+.featured .description{left:0;padding:0 10px;position:absolute;top:200px;width:520px;z-index:80}
+.featured .controls{left:540px;position:absolute;top:200px;z-index:80}
+.featured1{height:340px;position:relative;width:681px}
+.featured1 .item{display:none;height:340px;position:absolute;width:681px}
+.featured1 .description{left:0;padding:0 10px;position:absolute;top:290px;width:520px;z-index:80}
+.featured1 .controls{left:540px;position:absolute;top:290px;z-index:80}
+.my_page_remove_btn{color:#333;float:right;font-family:Arial, Helvetica, sans-serif;font-size:11px;padding:3px 3px 1px;text-decoration:none}
+#my_page_remove_btn{color:#333;font-family:Arial, Helvetica, sans-serif;font-size:11px}
+#my_page_remove_btn a:hover{background-color:#ee2a28;color:#FFF;padding:1px 3px}
+.mypage_topheading{float:left;padding:5px 5px 5px 0}
+#mypage_expert-heading{float:left;padding:12px 0 0}
+#mypage_expert-srch{border-bottom:1px solid #d4d4d4;float:left;margin:5px 10px 0;padding:0 0 16px;width:532px}
+#mypage_expert-ditance-heading{float:left;padding:10px 0;width:532px}
+#mypage_expert-srch-bar{background-image:url(../images/expert-srch_bar.png);background-position:right;background-repeat:no-repeat;height:70px;margin:0 auto;width:391px}
+#mypage_expert_distance-text{float:left;padding:10px 5px 0;text-align:center;width:46px}
+#mypage_expert-km-main{float:left;margin:40px 0 0;width:391px}
+#mypage_expert-km-start{float:left;padding:0 5px 0 0}
+#mypage_expert-km-end{float:right;padding:0 0 0 5px}
+#mypage_expert-srch-field-txt{float:left;padding:2px 4px 0 0}
+#mypage_expert-ditance-heading2{float:left;padding:5px 0 20px;width:532px}
+#expert_srch_list-box{border:1px solid #d4d4d4;float:left;height:158px;margin:5px 10px 3px 0;width:150px}
+#expert_srch_big_list-box{border:1px solid #d4d4d4;float:left;height:158px;margin:5px 0 3px;width:360px}
+#expert_srch_big_list-top{background-color:#f0f0f0;border-bottom:1px solid #d4d4d4;float:left;padding:5px;width:350px}
+#expert_srch_big_list-inner{float:left;height:125px;overflow:auto;overflow-x:hidden;width:360px}
+#mypage_display_pic{float:left;height:49px;width:50px}
+#mypage_display_text_dtl{float:left;padding:5px 0 10px 10px;width:470px}
+#mypage_display_text_pic{float:left;padding:0 10px}
+#quetionaries_top_heading{float:left;padding:8px 10px 8px 3px}
+#quetionaries_top_heading2{float:left;padding:20px 10px 8px 8px}
+.quetionaries_top_btns2{border-right:1px solid #ccc;float:left;padding:9px}
+.quetionaries_top_btns3{float:left;padding:9px}
+.quetionaries_top-text{float:left;padding:0 5px 0 0}
+.quetionaries_top-text2{float:right;padding:3px 5px 0 0}
+.quetionaries_quetions{background-color:#FFF;border:1px solid #ccc;float:right;margin-top:5px;width:677px}
+.quetionaries_inner_text{border-bottom:dotted 1px #ccc;margin:0 auto;padding:8px 0;width:670px}
+.quetionaries_display_pic{float:left;height:51px;margin:4px 0;width:51px}
+.quetionaries_inner_text3{float:right;padding:4px 0 5px 8px;width:608px}
+.quetionaries_serch{border:1px solid #ccc;float:left;margin:15px 0 0 10px;width:302px}
+.quetionaries_serch_txt-box{margin:0 auto;padding:0 0 10px;width:260px}
+.quetionaries-ask-btn{float:right;padding:0 4px}
+.answers_inner_text{margin:0 auto;padding:8px 5px;width:650px}
+.answers_inner_text2{margin:0 auto;padding:15px 5px;width:660px}
+.answers_inner_text3{margin:0 auto;padding:5px;width:660px}
+.lightgrey-heading4{color:#616161;font-family:Arial, Helvetica, sans-serif;font-size:12pt;line-height:24px}
+.red_big_heading4{color:#ee2a28;font-family:Arial, Helvetica, sans-serif;font-size:12pt;line-height:24px}
+.quetionaries_answer_box{border:1px solid #ccc;margin:0 auto;padding:8px;width:640px}
+.quetionaries_answer_box2{border-left:1px solid #ccc;border-right:1px solid #ccc;border-top:1px solid #ccc;margin:0 auto;padding:8px;width:640px}
+.preset_video_box{border-bottom:1px solid #CCC;float:left;margin:5px 0 0 3px;width:999px}
+.workout_preset_text{margin:0 auto;padding:10px 0;width:968px}
+.preset_video_pics{border:1px solid #CCC;float:left;height:127px;margin:0 5px;width:230px}
+.preset_btm_text{float:left;width:500px}
+.preset_btm_btns{float:right;width:400px}
+#invite_friend_main{float:left;margin-top:10px;width:750px}
+.invite_friends-icon{float:left;padding:10px 5px 0 0}
+.invite_friends-heading{float:left;padding:16px 0 0}
+.invite_friends_line2{border-bottom:1px solid #d4d4d4;float:left;margin:0 10px;width:730px}
+.mypage_flip-arrow2{float:right;padding:25px 0 0}
+#invite_friends-category{float:left;margin:10px;width:730px}
+.edit_friends_box{-moz-border-radius:8px;background-color:#cbcece;border:1px solid #eee;padding:5px;position:relative}
+.edit_friends_box_main{margin:0 auto;width:525px}
+.edit_friends_box_top{background-image:url(../images/top_bar_bg.jpg);border-bottom:1px solid #DDD;color:#ee2a28;font-family:Arial, Helvetica, sans-serif;font-size:16px;margin:0;padding:10px}
+.edit_friends_box_srch{background:none repeat scroll 0 0 #F2F2F2;border-bottom:1px solid #DDD;padding:6px}
+.edit_friends_btn{float:left;height:28px;margin:3px 0 0 5px;width:77px}
+.edit_friends_srch_field{float:right;margin:5px}
+.edit_friends_detail{background-color:#FFF;max-height:320px;overflow:auto;padding:3px 0 0;width:100%}
+.edit_friends_listing{border-bottom:1px solid #EEE;min-height:52px;padding:2px 0}
+.edit_friends_listing_pic{float:left;height:51px;margin:0 5px;width:51px}
+.edit_friends_listing_tag{float:left;margin:15px 5px 0}
+.trainer_profile_pics{border:solid 4px #CCC;float:left;height:237px;margin:6px;width:224px}
+.trainer_profile_pics2{border:solid 4px #CCC;float:left;height:237px;margin:5px 6px 5px 0;width:224px}
+.trainer_arrows_icons{float:left;margin:2px 5px 0 0}
+.trainer_arrows_icons_text{float:left;margin:0 10px 0 2px}
+.trainer_profile_video{float:left;height:299px;margin-top:10px;width:479px}
+.trainer_profile_video_right{float:left;height:32px;margin:120px 0 0 10px;width:235px}
+.trainer_profile_video_right2{float:left;height:32px;margin:10px 0 0;width:235px}
+.trainer_profile_video_icon{float:left;height:32px;width:28px}
+.trainer_profile_video_text{float:left;padding:5px 0 0 5px}
+.trainer_form_pics{border:5px solid #c3c3c3;float:left;margin:5px}
+.facebook_like_widget{border:0;height:345px;overflow:auto;padding-left:10px;padding-top:23px;width:302px}
+.community_user_images{float:left;height:49px;margin:1px;width:48px}
+.footer_subscribe{
+	background-image:url(images/subscribe_bg.jpg);
+	border:1px solid #cacaca;
+	float:left;
+	padding:5px 5px 8px;
+	width:220px
+}
+.subscribe_inner{float:left;margin:10px;width:200px}
+.subscribe_now_heading{color:#524b4b;font-family:Arial, Helvetica, sans-serif;font-size:12pt}
+.subscribe_btn{float:right;height:24px;margin:5px 12px 5px 10px;width:78px}
+.subscribe_textfield{background-color:#eaeaea;border:1px solid #eee;font-family:Arial, Helvetica, sans-serif;font-size:11px;padding:5px}
+.bottom_grey_footer2{
+	background-image:url(images/footer_bottom_bg.jpg);
+	background-repeat:repeat-x;
+	height:151px
+}
+.bottom_footer-logo{height:46px;margin:0 auto;width:221px}
+.bottom_fb-logo{float:left;height:52px;margin:10px 8px 15px 15px;width:52px}
+.bottom_verisign-logo{height:53px;margin:0 auto;width:117px}
+#fade{background:#000;display:none;height:100%;left:0;opacity:.80;position:fixed;top:0;width:100%;z-index:9999}
+.popup_block{-moz-border-radius:10px;-moz-box-shadow:0 0 20px #000;-webkit-border-radius:10px;-webkit-box-shadow:0 0 20px #000;background:#fff;border:20px solid #ddd;border-radius:10px;box-shadow:0 0 20px #000;display:none;float:left;font-size:1.2em;left:50%;padding:20px;position:fixed;top:50%;z-index:99999}
+img.btn_close{border:0;float:right;margin:-55px -55px 0 0}
+.popup p{margin:5px 0;padding:5px 10px}
+.footer_logos span{margin:5px 3px 3px 4px;padding:0}
+.stlarge{background:url(../images/bg.jpg) no-repeat scroll left top transparent;background-image:url(../images/footer-fb-logo.jpg);float:left;height:52px;margin:10px 5px 10px 10px;padding:0;width:52px}
+.error{color:red;font-family:Arial, Helvetica, sans-serif;font-size:9pt;font-weight:700;line-height:20px;text-decoration:none}
+.article_main_text{color:#333;font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:18px;text-align:justify}
+#article_main_text_box{background-color:#FFF;border-bottom:1px solid #eee;border-left:1px solid #fff;border-right:1px solid #fff;border-top:1px solid #fff;float:right;margin-top:7px;width:675px}
+#article_main_heading{float:right;margin:10px 0;width:680px}
+.article_banner{border:2px solid #eaeaea;float:right;height:250px;width:677px}
+.articles_big_heading{color:#6c6c6c;font-family:"Trebuchet MS", sans-serif;font-size:20pt}
+.recipies_box{float:left;height:100%;margin-top:10px;padding-left:5px;width:679px}
+.recipies_inner{margin:0 auto;width:679px}
+.rcecipie_box{border:1px solid #ccc;float:left;height:100%;width:334px}
+.recipie_top_grey{background-color:#B1B1B1;float:left;padding:7px 0 7px 5px;width:330px}
+.rcecipie_box2{border:1px solid #ccc;float:right;height:100%;margin:0;width:334px}
+.recpies_inner_text{float:left;padding:5px;width:190px}
+.pagination_main{margin:0 auto;text-align:center}
+.pagination_text{float:left;padding:4px 5px 0 3px;text-align:center}
+#paginations_button{margin:0 5px}
+#paginations_button ul li{color:#000;display:inline;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:12px;list-style:none;margin:0;padding:0;text-align:center}
+#paginations_button ul li a{background-image:url(../images/pagination_bg.jpg);border:1px solid #CCC;color:#000;margin:0 1px;padding:5px;position:relative;text-align:center;text-decoration:none}
+.mypage_adduser_heading{float:left;padding:10px 0 5px;width:181px}
+.mypage_adduser_sub-heading{float:left;padding:0 0 3px;width:181px}
+.mypage_friends_list{float:left;padding:2px;width:177px}
+.mypage_friends_list_pic{float:left;height:22px;width:22px}
+.mypage_friends_names{float:left;padding:4px 0 0 5px;width:140px}
+.add_friend_icon1{float:left;padding:6px 0 0}
+#registration_main{background-image:url(../images/form_bg_03.jpg);background-repeat:no-repeat;margin:0 auto;padding:6px 0 0;width:1005px}
+.registration_left{float:left;height:895px;width:566px}
+.registration_right{float:right;height:895px;width:439px}
+.registration_heading{padding:15px 0 10px 25px;width:515px}
+.registration_red_heading{padding:35px 0 5px 50px;width:515px}
+.registration_fields2{padding:10px 0 5px 55px;width:510px}
+.form_reg_top_heading{color:#ae1500;font-family:Arial, Helvetica, sans-serif;font-size:18px}
+.form_reg_top_heading2{color:#ae1500;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:700}
+.registration_form_text{color:#4f4f4f;font-family:Arial, Helvetica, sans-serif;font-size:14px}
+.registration_caption1{height:50px;width:400px}
+.registration_login_text{color:#a4a1a2;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:400}
+form{color:#666;font-family:Arial, Helvetica, sans-serif;font-size:12px}
+form ol{list-style:none;margin:0;padding:0}
+form li{margin-bottom:1px;padding:10px 0}
+#signupForm label.registerlabel{color:#333;float:left;font-family:Arial, Helvetica, sans-serif;font-size:10pt;line-height:20px;text-align:left;width:150px}
+form input.register,form textarea.register{background-color:#F5F5F5;border:1px solid #e9e9e9;color:#333;font-family:Arial, Helvetica, sans-serif;font-size:12px;padding:5px;width:250px}
+form input:focus,form textarea:focus{border:1px solid #e9e9e9}
+.registration_facebook_top{float:right;padding:5px 0 10px;width:420px}
+.registration_caption2{float:right;padding:5px 10px 3px;width:400px}
+.registration_facebook_area{float:right;padding:0 20px 0 0;width:300px}
+.registration_caption_bullet{float:left;margin:0 10px 0 0}
+.registartion_cation_text{color:#17336d;font-family:Arial, Helvetica, sans-serif;font-size:18px}
+#article_right_links{background-color:#F9F9F9;float:left;width:302px}
+#article_right_links ul li{background-color:#F3F3F3;border-bottom:1px solid #E2E2E2;color:#000;font-family:Arial, Helvetica, sans-serif;font-size:12px;list-style:none;margin:0;padding:10px 0 10px 12px;width:290px}
+#article_right_links ul li a{background-image:url(../images/fitness_red_icon.png);background-position:left;background-repeat:no-repeat;color:#000;left:0;margin:0 1px;padding:0 0 0 25px;position:relative;text-decoration:none;width:290px}
+#article_right_links ul li:hover{background-color:#DBDBDB;font:Arial, Helvetica, sans-serif, color:fff}
+#article_right_links_text{color:#000;font:Arial, Helvetica, sans-serif;font-size:12px}
+#article_right_links_text a:hover{color:#ee2a28;font:Arial, Helvetica, sans-serif;font-size:12px}
+.jquery-ratings-star{background-image:url(../images/empty-star.gif);background-repeat:no-repeat;float:left;height:36px;margin-right:2px;position:relative;width:36px}
+.jquery-ratings-full{background-image:url(../images/full-star.gif)}
+.recipies_boxes2{float:right;margin:10px 0 0;width:677px}
+.latest_recipies_inner_text{background-color:#f7f7f7;margin:0 auto;padding:8px 0;width:670px}
+.recipies_all_box1{border:1px solid #ddd;float:left;height:192px;margin:3px 3px 3px 0;width:217px}
+.recipies_all_box2{background-color:#fcf6e3;border:1px solid #ddd;float:left;height:192px;margin:3px;width:219px}
+.recipies_all_box3{background-color:#faf6eb;border:1px solid #ddd;float:left;height:192px;margin:3px 0 3px 3px;width:219px}
+.recipies_box_img{height:145px;width:217px}
+.recipies_display_pic{border:1px solid #f7f7f7;float:left;height:67px;margin:4px 0;width:67px}
+.latest_recipies_heading{color:#bf3c05;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;font-size:16pt}
+.latest_recipies_text{float:right;padding:0 0 5px 10px;width:588px}
+#recipies_week{border-bottom:solid 1px #ededed;float:left;padding:6px 3px 5px;width:295px}
+#recipies_week_data{float:left;padding:0 0 0 10px;width:240px}
+#recent_week_data_pic{float:left;height:42px;padding-top:3px;width:42px}
+.recipies_srch_field{background-color:#f8f8f8;border:1px solid #ddd;font-family:Arial, Helvetica, sans-serif;font-size:12px;padding:5px;width:150px}
+#recipies_srch_box{background-color:#fefcf5;background-image:url(../images/recipies_form_bg.jpg);background-position:bottom;background-repeat:no-repeat;border:1px solid #ccc;float:left;margin:15px 0 0 10px;width:302px}
+a{outline:none}
+img{border:0}
+#tools_main_area2{float:left;margin:0 0 15px;width:796px}
+#body_measurment_submit{float:left;margin:15px 0;width:796px}
+.body_measurment_left{float:left;height:532px;width:290px}
+.body_measurment_center_man{background:url(../images/body_measurment_man.jpg) no-repeat;float:left;height:532px;width:218px}
+.body_measurment_center_lady{background:url(../images/body_measurment_lady.jpg) no-repeat;float:left;height:532px;width:218px}
+.body_measurment_right{float:left;height:532px;width:280px}
+#body_measurment_box{background:url(../images/measurment_gray_field.png) no-repeat;float:right;height:67px;width:107px}
+#body_measurment_box:hover{background:url(../images/measurment_yellow_field.png) no-repeat;float:right;height:67px;width:107px}
+.measurment_field_top{float:left;padding:3px 5px 0;text-align:center;width:95px}
+.measurment_field_text{float:left;padding:9px 5px 0;text-align:center;width:95px}
+.body_measurment_field{background-color:#f8f8f8;border:1px solid #ddd;font-family:Arial, Helvetica, sans-serif;font-size:12px;padding:2px}
+.hips_fields{float:right;height:67px;margin:80px 30px 0 0;width:200px}
+.waist_fields{float:left;height:67px;margin:80px 0 0 30px;width:200px}
+.body_measurment_drop_down{float:right;margin:20px 0 0;width:105px}
+#measurment_submit_btn{background:url(../images/measurment_btn.png) no-repeat;height:50px;margin-left:320px;width:157px}
+#measurment_submit_btn:hover{background:url(../images/measurment_over_btn.png) no-repeat;height:50px;margin-left:320px;width:157px}
+.measurment_submit_btn_txt{font-family:Arial, Helvetica, sans-serif;font-size:24px;padding:10px;text-align:center}
+.workout_all_box1{border:1px solid #ddd;cursor:pointer;float:left;margin:3px;width:217px}
+.workout_all_box2{background-color:#fcf6e3;border:1px solid #ddd;cursor:pointer;float:left;margin:3px;width:217px}
+.workout_all_box3{background-color:#faf6eb;border:1px solid #ddd;cursor:pointer;float:left;margin:3px;width:217px}
+.workout_top_box_img{height:83px;width:217px}
+.workout_box_text{margin:10px 5px;width:210px}
+.workout_box_text2{background-color:#e41529;margin:0 auto;padding:10px;text-align:center}
+.workout_box_text3{background-color:#5bcbf7;margin:0 auto;padding:10px;text-align:center}
+.workout_box_text4{background-color:#76bf2b;margin:0 auto;padding:10px;text-align:center}
+.workout_display_pic{border:1px solid #ddd;float:left;height:106px;margin:4px 0 4px 3px;width:155px}
+.latest_workout_text{float:right;padding:0 0 5px 10px;width:500px}
+.workout_save_image{background-image:url(../images/save_workout_side-img.jpg);float:left;height:69px;margin:15px 0 0 10px;width:302px}
+.workout_save_text{float:left;margin:30px 5px 0 100px}
+.workout_week_data_pic{float:left;height:84px;padding-top:3px;width:123px}
+.workout_week_data{float:left;padding:5px 0 0 10px;width:162px}
+.workout_srch_box{background-color:#fefcf5;background-image:url(../images/main_video_srch_box.jpg);background-position:bottom;background-repeat:no-repeat;border:1px solid #ccc;float:left;margin:15px 0 0 10px;width:302px}
+.workout_excrcise_loger{background-image:url(../images/workout-excercise-image);border:1px solid #ccc;float:left;height:253px;margin:0 0 0 10px;width:302px}
+.workout_video_player{float:left;padding-left:3px;width:681px}
+.workout_video_player-heading{float:left;padding:10px 0 10px 10px;width:670px}
+.checkbox-labels{display:block;float:left;padding:5px;width:160px}
+.recipies_inner_main{margin:15px 5px 0;width:995px}
+.recipie_inner_main-pic{float:left;width:311px}
+.recipie_pic_right_dtl{float:left;height:208px;margin:5px 0 5px 5px;width:660px}
+.recipie_inner_heading{float:left;padding:5px;width:650px}
+.recipie_inner_top{background-color:#f7f7f7;border:1px solid #f5f3f3;float:left;height:135px;margin:5px 0 0;width:658px}
+.recipie_prepration{float:left;margin:15px 5px 7px}
+.recipies_share_left{float:left;width:330px}
+.recipies_inner_top_rating{float:left;margin:15px 0 0 10px;width:320px}
+.recipies_inner_top_rating2{float:left;margin:10px 0 0 10px;width:320px}
+.recipies_share_right{float:right;width:325px}
+.recipie_inner_share_box{float:right;margin:15px 5px 0 0}
+.recipie_add_meal{float:right;margin:15px 5px 15px 0}
+.recipie_add_meal_text{float:right;margin:0 5px 0 0;text-align:right;width:300px}
+.recipies_right_ingredients{background-image:url(../images/recipie_ingredient-bg.jpg);border:1px solid #ccc;float:left;margin:0 0 0 10px;width:302px}
+.recipie_ingredient{float:left;margin:5px 5px 3px;width:290px}
+.recipie_ingredients_text{font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;font-size:11pt;line-height:24px}
+.recipies_boxes_text{float:left;margin:10px 0 0;width:460px}
+.recipies_inner_graph{float:right;margin:10px 0 0;width:204px}
+.recipie_inner_rating{float:left;padding:8px}
+.recipies_boxes3{float:right;margin:20px 5px 0 0;width:660px}
+.comment_display_pic{border:1px solid #ebebeb;float:left;margin:5px;width:88px}
+.comment_text_area{background-color:#fafafa;border:1px dashed #ebebeb;float:left;margin:5px;min-height:67px;padding:5px;width:530px}
+.comment_submit_button{float:right;margin:0 5px 0 0;width:80px}
+#top_bar_main,#footer_links_top,#bottom_footer_text,#bottom_footer_text2{margin:0 auto;width:1005px}
+#search_bar_left_corner,#basic_search_bar_left_corner{float:left;width:5px}
+.greysmalltext,.addfriends_text{font-family:Arial, Helvetica, sans-serif;font-size:11px}
+#buttons ul,#recent_activity_buttons ul,#basic_search_main2 ul{clear:left;list-style:none;margin:0 1px 0 0;padding:0;width:100%}
+#latest_article_topbg,#quetionaries_topbg{background-image:url(../images/red_top_bar.jpg);background-repeat:repeat-x;height:38px}
+.main_text_3,#recent_activity_data span{color:#333;font-family:verdana;font-size:8pt;line-height:18px}
+#recipie_box_pic,.recipie_box_pic{float:left;height:112px;width:131px}
+#recent_activity_top,#recipies_review_top{background-image:url(../images/recent_activity_top_bg.jpg);background-repeat:repeat-x;float:left;height:25px;padding:6px 0 0 5px;width:297px}
+#index_daily_tips,#nutrition_epert{border:1px solid #ccc;float:left;margin:23px 0 0 10px;width:302px}
+#video_left_arrow:hover,#video_left_arrow2:hover{background-color:#ddd}
+#videobox_heading,#article_srch_list-box-h1,#mypage_upcomming_user{float:left}
+#footer_links ul,#inner_left_links ul{clear:left;float:left;list-style:none;margin:0 1px 0 0;padding:0}
+#footer_links ul li a:hover,#my_page_links ul li a:hover{color:#ee2a28;font-family:Arial, Helvetica, sans-serif}
+#nutrition_top_box,.quetionaries_top,#quetionaries_inner,.recipies_top_boxes{float:right;margin-top:5px;width:677px}
+#workout_vid_timeline-main,#workout_vid_build-main{float:left;margin:15px 0;width:1005px}
+#workout-strip_box-video:hover .classhoverImage,.featured .first,.featured1 .first{display:block}
+#workout_save_video-box1,#workout_save_video-wizard{border:1px solid #f8f8f8;float:left;margin:10px;width:970px}
+#article_srch_bar,.quetionaries_srch_bar,.quetionaries_srch_btn{float:left;padding:5px}
+#article_srch_list-box-h2,#mypage_flip-arrow{float:right}
+#article_rating strong,#article_rating em{font-family:Arial, Helvetica, sans-serif;font-size:10pt;font-weight:400}
+.blackheading_a3,.blackheading_3{color:#000;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11pt;text-decoration:none}
+#popular_artical_text,.recipies_review_text,.quetionaries_srch_box,.quetionaries_small_text{border-bottom:1px dotted #ccc;float:left;padding:8px 8px 5px;width:285px}
+#mypage_events-dtail-btn,#mypage_expert-srch-field,.invite_friend_text-field{float:left;padding:0 4px}
+#mypage_comming_user_box,.quetionaries_rating_box{background-color:#f8f8f8;border:1px solid #e9e9e9;float:left;padding:2px 0 2px 5px}
+a:hover.lightgrey-heading3,a:hover.black_small_bold2,a:hover.black_small_bold3{color:#900;text-decoration:underline}
+.profile_icons,#profile_icons{float:left;padding:8px 5px 5px}
+#mypage_user_comment-box,.mypage_user_comment-box{background-color:#f8f8f8;border:1px solid #e9e9e9;margin:5px 0 0;padding:5px 0;width:528px}
+#recipies_description_page,#quetionaries_top_btns-bg{background-color:#f8f8f8;border:1px solid #ccc;float:left;width:670px}
+#recipies_review,.recipies_calendar,.video_player_side{border:1px solid #ccc;float:left;margin:0 0 0 10px;width:302px}
+.recipie_des_heading3,.recipie_des_rating{float:left;padding:5px;width:660px}
+.recipie_des2,.recipie_des3{float:left;padding:5px;width:235px}
+a.top:link,a.top:active,a.top:visited{background-image:url(../images/pg-down.jpg);background-position:center center;background-repeat:no-repeat;color:#2b5e00;display:block;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:700;line-height:26px;list-style-type:square;text-decoration:none}
+#basic_search_main2 ul li a:hover,#basic_search_main2 ul li a.active{background-color:#f9f9f9;color:#ee2a28;font-family:Arial, Helvetica, sans-serif}
+.right_tool_exercise_logger_aerobic,.right_tool_exercise_logger{background-image:url(../images/exercise_log_gray.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.right_tool_exercise_logger_aerobic:hover,.right_tool_exercise_logger:hover{background-image:url(../images/exercise_log_color.jpg)}
+.right_tool_exercise_logger_aerobic_active,.right_tool_exercise_logger_active{background-image:url(../images/exercise_log_color.jpg);background-repeat:no-repeat;cursor:pointer;height:118px;margin:5px 0 0;width:147px}
+.link1,a.link1:visited,a.link2:hover{color:#515050;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-weight:400;heading-decoration:none;text-decoration:none}
+a.link2:link,a.link2:visited{color:#ea0b0c;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-weight:400;heading-decoration:none;text-decoration:none}
+.search_big_box_left,.search_big_box_right{float:left;height:83px;width:5px}
+.featured ul,.featured1 ul{color:#eee;font-family:arial;font-size:18px;margin:0;padding:0}
+.featured .controls div,.featured1 .controls div{background:url(../images/banner_grey.png);cursor:pointer;float:left;height:24px;margin:0 7px 0 0;width:24px}
+.featured .controls div.white_bullet,.featured1 .controls div.white_bullet{background:url(../images/banner_grey.png)}
+.featured .controls div.yellow_bullet,.featured1 .controls div.yellow_bullet{background:url(../images/banner_red.png)}
+#mypage_expert-chk-box,.trainer_form_text{float:left;margin:5px 10px 0;padding:0;width:532px}
+#mypage_display_text,.quetionaries_user_text{float:left;padding:0 0 0 10px;width:470px}
+#mypage_display_pic_text,.mypage_display_pic_text{float:left;padding:5px 10px;width:315px}
+.quetionaries_inner_text2,.quetionaries_sublinks{float:left;padding:4px 0 5px 8px;width:608px}
+.invite_friend_form_text,.invite_friend_form_box{float:left;margin:0 0 10px;width:730px}
+.trainer_form_tabs,.trainer_form_tabs2,.trainer_form_tabs3{border-bottom:1px solid #e9e9e9;border-left:1px solid #e9e9e9;border-right:1px solid #e9e9e9;margin:0 0 10px 2px;width:545px}
+.subscribe_inner2,.subscribe_inner_textfield{float:left;margin:0 10px 5px;width:200px}
+.bottom_twi-logo,.bottom_blog-logo{float:left;height:52px;margin:10px 8px 15px;width:52px}
+*html #fade,*html .popup_block{position:absolute}
+#paginations_button ul,#article_right_links ul{list-style:none;margin:0 1px 0 0;padding:0}
+#paginations_button ul li a:hover,#paginations_button ul li a.active{background-color:#FFF;border:1px solid #FFF;color:#ee2a28;font-family:Verdana, Arial, Helvetica, sans-serif}
+.registration_fields,.registration_captcha{padding:5px 0 5px 55px;width:510px}
+.recipies_box_text,.recipies_box_btn{margin:15px 5px 10px;width:217px}
+.chest_fields,.thighs_fields{float:right;height:67px;margin:80px 0 0;width:200px;}
+.uperarms_fields,.claves_fields{float:left;height:67px;margin:80px 0 0;width:200px;}
+/*------------------sitemap-----------------------*/
+.sitemapmain {
+	margin:0px auto;
+	width:950px;
+	background-color:#f7f7f7;
+}
+#sitemap_button{
+	padding:10px;
+}
+#sitemap_button ul {
+	clear:left;
+	list-style:none;
+	margin:0px 1px 0 0;
+	padding:0px;
+}
+#sitemap_button ul li {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color:#FFFFFF;
+	margin:10px 0px 0px 0px;
+	padding:5px;
+}
+#sitemap_button ul li a {
+	text-decoration:none;
+	color: #7F7F7F;
+	position:relative;
+	left:0px;
+	background-color:#FFFFFF;
+}
+#sitemap_button ul li a:hover {
+	color:#ee2a28;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
